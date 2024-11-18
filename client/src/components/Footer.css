@@ -1,0 +1,39 @@
+.footer {
+    background-color: #f4f4f4; /* Light Gray background */
+    color: #d13c5c; /* Dark Pink Text */
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-text {
+    font-size: 18px;
+  }
+  
+  .social-icons {
+    margin: 10px 0;
+  }
+  
+  .social-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #d13c5c;
+    transition: color 0.3s;
+  }
+  
+  .social-icon:hover {
+    color: #f1f1f1;
+  }
+  
+  .footer-description {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #d13c5c;
+  }
+  
